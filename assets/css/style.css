@@ -637,8 +637,37 @@ h3.w3ls_pvt-title {
 
 /* //banner */
 
+/* -- about --*/
+.about h4 {
+    font-size: 30px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+
+.about-padding {
+    padding: 2em 4em;
+}
+
+.img-div {
+    position: relative;
+}
+
+.position-img {
+    position: absolute;
+    right: 0;
+    bottom: 10%;
+}
+
+.position-img1 {
+    position: absolute;
+    left: 0;
+    bottom: 10%;
+}
+
+/* -- //about --*/
+
 /* banner bottom */
-.welcome-left h3 {
+/*.welcome-left h3 {
     font-size: 40px;
     letter-spacing: 1px;
     font-weight: 100;
@@ -664,7 +693,7 @@ h3.w3ls_pvt-title {
     border-radius: 50%;
     background: #FC427B;
     padding: 1em;
-}
+}*/
 
 /* //banner bottom */
 
