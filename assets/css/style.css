@@ -308,7 +308,7 @@ a.reqe-button {
     }
 
     .toggle:hover {
-        color: #FC427B;
+        color:rgb(0, 111, 155);
     }
 
     /* Display Dropdown when clicked on Parent Lable */
@@ -654,14 +654,16 @@ h3.w3ls_pvt-title {
 
 .position-img {
     position: absolute;
-    right: 0;
-    bottom: 10%;
+    right: 8px;
+    bottom: 41%;
+    max-width: 60%;
 }
 
 .position-img1 {
     position: absolute;
-    left: 0;
-    bottom: 10%;
+    left: -55px;
+    bottom: 50%;
+    max-width: 60%;
 }
 
 /* -- //about --*/
@@ -763,7 +765,7 @@ p.text-botm {
 }
 
 .posts-w3ls-bottom i {
-    color: #ff4f81;
+    color: rgb(0, 111, 155);
 }
 
 .posts-w3ls-bottom a {
@@ -779,7 +781,7 @@ p.text-botm {
 /* //blog */
 /* services */
 .serives-agile {
-    background: #FC427B;
+    background: rgb(0, 111, 155);
 }
 
 .services-w3ls-grid h4 {
@@ -899,7 +901,7 @@ p.text-botm {
     margin-top: 1.7em;
     width: 100%;
     -webkit-appearance: none;
-    background: #FC427B;
+    background: rgb(0, 111, 155);
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -o-transition: 0.5s all;
@@ -979,7 +981,7 @@ ul.links li a:hover,
 }
 
 .copy-right a {
-    color: #FC427B;
+    color:rgb(0, 111, 155)
 }
 
 .copy-right a:hover {
